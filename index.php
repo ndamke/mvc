@@ -19,3 +19,4 @@
 	$controller = new Controller($action, $id);
 	$controller->display();
 ?>
+.
