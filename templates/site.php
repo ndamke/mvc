@@ -2,9 +2,6 @@
 <html>
 	<head>
 		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<style>
-		
-		</style>
 	</head>
 	<body>
 		<div =id"header" class="col-md-12 bg-primary">
