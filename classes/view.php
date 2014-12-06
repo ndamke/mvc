@@ -1,9 +1,9 @@
-<?php
+﻿<?php
 	class View {
-		private $daten;
-		private $template='default';
+		private $daten = array();
+		private $template='site';
 		
-		public function __construct ($daten='',$template='default') {
+		public function __construct ($daten=array(),$template='site') {
 			$this->daten = $daten;
 			$this->template = $template;
 		}
