@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<klassenliste>
+	<eintrag id="0">
+		<nachname>Dick</nachname>
+		<vorname>Alexander</vorname>
+		<alter>22</alter>
+	</eintrag>
+	<eintrag id="1">
+		<nachname>Richert</nachname>
+		<vorname>Christian</vorname>
+		<alter>37</alter>
+	</eintrag>
+	<eintrag id="2">
+		<nachname>lol</nachname>
+		<vorname>olo</vorname>
+		<alter>12</alter>
+	</eintrag>
+	<eintrag id="3">
+		<nachname>rtfz</nachname>
+		<vorname>rtz</vorname>
+		<alter>454</alter>
+	</eintrag>
+	<eintrag id="4">
+		<nachname>Flüter</nachname>
+		<vorname>Tobias</vorname>
+		<alter>24</alter>
+	</eintrag>
+	<eintrag id="5">
+		<nachname>Reiz</nachname>
+		<vorname>Eduard</vorname>
+		<alter>20</alter>
+	</eintrag>
+	<eintrag id="6">
+		<nachname>Klein</nachname>
+		<vorname>Dominik</vorname>
+		<alter>20</alter>
+	</eintrag>
+	<eintrag id="7">
+		<nachname>Hartweg</nachname>
+		<vorname>Nicolas</vorname>
+		<alter>18</alter>
+	</eintrag>
+	<eintrag id="8">
+		<nachname>Schnurbus</nachname>
+		<vorname>Julien</vorname>
+		<alter>20</alter>
+	</eintrag>
+	<eintrag id="9">
+		<nachname>Dieckhöner</nachname>
+		<vorname>Christian</vorname>
+		<alter>19</alter>
+	</eintrag>
+	<eintrag id="10">
+		<nachname>Heusener</nachname>
+		<vorname>Sascha</vorname>
+		<alter>21</alter>
+	</eintrag>
+<eintrag id="11"><vorname>Nina</vorname><nachname>Drake</nachname><alter>19</alter></eintrag><eintrag id="12"><vorname>Christian</vorname><nachname>Dieckhöner</nachname><alter>19</alter></eintrag><eintrag id="13"><vorname>Christian</vorname><nachname>Dieckhöner</nachname><alter>19</alter></eintrag></klassenliste>
