@@ -31,7 +31,12 @@
 						$contentView->setTemplate("oneDataset"); // gibt Template an Innerview
 						break;
 					case "delete":
-						echo "delete";
+						$contentView->setTemplate("liste_delete.php");
+						$this->daten['liste.php'] = Model::getDaten();
+						$z = Model::setDaten($_REQUEST['vorname'],$_REQUEST['nachname'],$_REQUEST['alter']);
+						break;
+					case "deleteDataSet":
+						$this->daten['deleteMessage.php'] = Model::deleteDataset();
 						break;
 					default:
 						// Template "home" mit Text für Default

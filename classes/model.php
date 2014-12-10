@@ -58,5 +58,11 @@
 			echo $dom->saveXML();
 			return $z;
 		}
+		public static function deleteDS($id) {
+			$id = $id *1;
+			$xml = simplexml_load_file('klassenliste.xml');
+			unset($xml->eintrag[$id]);
+			$xml->saveXML('klassenliste.xml');
+		}
 	}
 ?>
